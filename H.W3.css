@@ -7,12 +7,12 @@
     font-family:Arial;
 }nav{
     background-color:  #7463f4;
-    height: 81px;
+    height: 80px;
     width: 100%;
 }label.logo{
     color: white;
-    font-size: 26px;
-    line-height: 84px;
+    font-size: 25px;
+    line-height: 85px;
     padding: 0 130px;
     font-weight: bold;
 }nav ul{
@@ -26,6 +26,7 @@
     color: white;
     border-radius: 4px;
     padding: 5px;
+    margin: 0;
 }a.active{
     background-color: #fff;
     transition: .5s;

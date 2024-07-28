@@ -1,0 +1,125 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}body{
+    font-family:Arial;
+}nav{
+    background-color:  #7463f4;
+    height: 80px;
+    width: 100%;
+}label.logo{
+    color: white;
+    font-size: 25px;
+    line-height: 85px;
+    padding: 0 130px;
+    font-weight: bold;
+}nav ul{
+    float: right;
+    margin-right: 5px;
+}nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px 0 12px;
+}nav ul li a{
+    color: white;
+    border-radius: 4px;
+    padding: 5px;
+}a.active{
+    background-color: #fff;
+    transition: .5s;
+    color:  #7463f4;
+    
+}.contact{
+    margin-right: 150px;
+}.wrapper{
+    width: 80%;
+    margin: auto;
+    background-color: #efebeb;
+    margin-top: 18px;
+    padding-bottom: 59px;
+    border: 5px solid rgb(188, 183, 183);
+    
+}.wrapper h3{
+    padding: 15px;
+    padding-bottom: 18px;
+    margin-left: 30px;
+}.imag{
+    padding-left: 48px;
+    display: inline-block;
+    box-sizing: border-box;
+    width: 40%;
+   
+}
+.text{
+    display: inline-block;
+   padding-left: 18px;
+    width: 44%;
+}.butt{
+  
+  margin-top: 10px;
+   margin-left: 50px;
+  
+}.btn{
+    width: 95px;
+    padding: 4px;
+    color: white;
+    background-color: #7463f4;
+    border: none;
+    border-radius: 4px;
+}.wrapper2{
+    width: 40%;
+    margin: auto;
+    margin-top: 50px;
+    display: inline-block;
+    padding-left: 30px;
+    margin-left: 94px;
+}.butt1{
+    margin-right: 12px;
+    margin-top: 20px;
+}.btn1{
+    width: 90px;
+    padding: 3px;
+    color: white;
+    background-color:  #7463f4;
+    border: none;
+    border-radius: 4px;
+}.text2{
+    margin-top: 12px;
+    color: rgb(62, 61, 61);
+}hr{
+    width: 80%;
+    margin-top: 15px;
+}.wrapper3{
+    width:40% ;
+    display: inline-block;
+    float: right;
+    margin-top: 50px;
+    margin-right: 120px;
+   
+}.butt2{
+    margin-top: 40px;
+ 
+}.btn2{
+    width: 90px;
+    padding: 3px;
+    color: white;
+    background-color:  #7463f4;
+    border: none;
+    border-radius: 4px;
+    
+}.line{
+    width: 95%;
+    margin-top: 30px;
+}.foot{
+    width: 100%;
+    background-color: #7463f4;
+    text-align: center;
+    height: 70px;
+    margin-top: 37px;
+    padding-bottom: 20px;
+}.foot2{
+    padding: 27px;
+    color: #fff;
+}
